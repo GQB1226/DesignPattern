@@ -1,7 +1,7 @@
 /**
  * 
  */
-package factoryPattern;
+package factoryPattern.simpleFactory;
 
 /**
  * @author GQB1226
@@ -9,5 +9,4 @@ package factoryPattern;
  */
 public interface Shape {
 	void draw();
-
 }

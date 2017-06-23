@@ -1,4 +1,4 @@
-package factoryPattern;
+package factoryPattern.simpleFactory;
 
 public class ShapeFactory {
 	public Shape getShape(String type) {

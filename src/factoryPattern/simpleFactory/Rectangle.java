@@ -1,4 +1,4 @@
-package factoryPattern;
+package factoryPattern.simpleFactory;
 
 public class Rectangle implements Shape {
 
